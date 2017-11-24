@@ -11,9 +11,6 @@
             <div class="date">{{ registration.date }}</div>
         </div>
 <div>
-        <p>{{ encoded }}</p>
-        <p>{{ decoded }}</p>
-        <p>{{ error }}</p>
 </div>
     </div>
 </template>
